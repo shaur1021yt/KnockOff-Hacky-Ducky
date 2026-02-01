@@ -11,3 +11,12 @@ Pcb:
 
 BOM With Links:
 
+ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price	Pins	link
+"1"	"100nF"	"C1"	"C0603"	"1"	"CC0603KRX7R9BB104"	"YAGEO(国巨)"	"LCSC"	"C14663"	"0.002"	"2"	"https://item.szlcsc.com/362304.html"
+"2"	"B5819W_C8598"	"D1,D2"	"SOD-123_L2.7-W1.6-LS3.7-RD-1"	"2"	"B5819W SL"	"CJ(江苏长电/长晶)"	"LCSC"	"C8598"	"0.023"	"2"	"https://atta.szlcsc.com/upload/public/pdf/source/20210423/C2828417_EF1BF8BE3D48F97E320B09B073C89160.pdf"
+"3"	"SS34_C8678"	"D3"	"SMA_L4.3-W2.6-LS5.2-RD"	"1"	"SS34"	"MDD(辰达半导体)"	"LCSC"	"C8678"	"0.029"	"2"	"https://item.szlcsc.com/34721.html"
+"4"	"47Ω"	"R1,R2"	"R0402"	"2"	"0402WGF470JTCE"	"UNI-ROYAL(厚声)"	"LCSC"	"C25118"	"0.001"	"2"	"https://item.szlcsc.com/323315.html"
+"5"	"1kΩ"	"R3"	"R0603"	"1"	"0603WAF1001T5E"	"UNI-ROYAL(厚声)"	"LCSC"	"C21190"	"0.001"	"2"	"https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf"
+"6"	"5.1kΩ"	"R4,R5"	"R0603"	"2"	"0603WAF5101T5E"	"UNI-ROYAL(厚声)"	"LCSC"	"C23186"	"0.001"	"2"	"https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf"
+"7"	"ATTINY85-20SH"	"U1"	"SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"	"1"	"ATTINY85-20SH"	"MICROCHIP(美国微芯)"	"LCSC"	"C1339831"	"2.725"	"8"	"https://so.szlcsc.com/global.html?c=&k=C9843"
+"8"	"TYPE-C-24PINMALE"	"USB1"	"USB-TYPE-C-SMD_TYPE-C-24PINMALE"	"1"	"TYPE-C-24PINMALE"	"null"	"LCSC"	"C9900001841"	""	"26"	"https://cn.bing.com/search?q=datasheet%3A+%20TYPE-C-24PINMALE"
