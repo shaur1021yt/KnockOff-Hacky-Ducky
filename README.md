@@ -1,6 +1,5 @@
 # KnockOff-Hacky-Ducky
-This is a hacky ducky from a tutorial, but instead ive made it with a usb c plug because ive never worked with one of those before. I made this cuz usb rubber duckies are cool and ive wanted to have a hackyduck or a pico duc[BOM_Rubber-Ducky_2026-02-24.csv](https://github.com/user-attachments/files/25534722/BOM_Rubber-Ducky_2026-02-24.csv)
-k but hackyducky is a taking a lil long with V2 and I understand its hard to maintain and get another version of it to go out. So imma make my Own! To use, flash the hacky ducky with your firmware and enjoy!
+This is a hacky ducky from a tutorial, but instead ive made it with a usb c plug because ive never worked with one of those before. I made this cuz usb rubber duckies are cool and ive wanted to have a hackyduck or a pico duck but hackyducky is a taking a lil long with V2 and I understand its hard to maintain and get another version of it to go out. So imma make my Own! To use, flash the hacky ducky with your firmware and enjoy!
 
 
 OnShape Source Link:
